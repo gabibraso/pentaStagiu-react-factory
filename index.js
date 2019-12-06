@@ -68,8 +68,6 @@ class Doll{
   }
 }
 
-
-
 const dollFactory = new Factory(Doll);
 const carFactory = new Factory(Car);
 
